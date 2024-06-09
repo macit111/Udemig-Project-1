@@ -6,6 +6,6 @@ Ilk Projemi sunmaktan mutluluk duymaktayım.
 
 HTML ve CSS ozellikleri kullanildi
 
-<h2> Ekran Goruntusu <h2>
+<h2> Ekran Goruntusu ! <h2>
 
 ![] (ekran.gif)
