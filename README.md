@@ -8,4 +8,4 @@ HTML ve CSS ozellikleri kullanildi
 
 <h2> Ekran Goruntusu ! <h2>
 
-![Gif yükleme][ekran.gif]
+![Gif yükleme yapıldı](ekran.gif)
